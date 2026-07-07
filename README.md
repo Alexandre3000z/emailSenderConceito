@@ -28,9 +28,7 @@ Este projeto automatiza o envio de e-mails de prospecção para uma base de cont
 ├── .env                  # Credenciais (não versionado)
 ├── .env.example          # Template de configuração
 ├── .gitignore
-├── Branco (1).png        # Logo da empresa
-├── assinatura.png        # Assinatura visual
-└── expositores_extraidos_20260619_154022.xlsx  # Base de contatos
+└── exemplo(Colocar em xlsx).csv  # Base de contatos mudar para .xlsx
 ```
 
 ---
