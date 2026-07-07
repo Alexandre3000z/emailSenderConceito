@@ -53,7 +53,7 @@ def main():
             for email_alvo in emails:
                 print(f"   -> A enviar para: {email_alvo}")
                 enviado = enviar_email(
-                    "joaoalexandrems3000@gmail.com", assunto, texto_email
+                    email_alvo, assunto, texto_email
                 )
 
                 if enviado:
