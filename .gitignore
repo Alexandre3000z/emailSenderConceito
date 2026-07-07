@@ -6,3 +6,5 @@ resultado_campanha.xlsx
 *.xlsx
 driver/checkpoints/
 driver/__pycache__/
+driver/
+driver
