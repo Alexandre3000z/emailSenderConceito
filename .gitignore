@@ -8,3 +8,4 @@ driver/checkpoints/
 driver/__pycache__/
 driver/
 driver
+*.png
