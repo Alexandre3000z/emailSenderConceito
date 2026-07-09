@@ -52,6 +52,31 @@ def montar_html_prospeccao(texto_ia):
                                 <strong>Precisa de agilidade logística agora?</strong><br>
                                 Responda este email ou acesse nossos <a href="https://www.conceitocargasaereas.com.br/contato" style="color:#0b3d91; text-decoration:none; font-weight:bold;">Canais De Atendimento</a>.
                             </p>
+
+                            <hr style="border:none; border-top:1px solid #e2e8f0; margin:40px 0 30px 0;">
+
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                    <td align="center" style="padding:0 8px;">
+                                        <img src="https://www.conceitocargasaereas.com.br/logos/Brudam.svg" width="85" alt="Brudam" style="display:block; opacity:0.85;">
+                                    </td>
+                                    <td align="center" style="padding:0 8px;">
+                                        <img src="https://www.conceitocargasaereas.com.br/logos/antt.png" width="82" alt="ANTT" style="display:block; opacity:0.85;">
+                                    </td>
+                                    <td align="center" style="padding:0 8px;">
+                                        <img src="https://www.conceitocargasaereas.com.br/logos/anvisa.png" width="70" alt="ANVISA" style="display:block; opacity:0.85;">
+                                    </td>
+                                    <td align="center" style="padding:0 8px;">
+                                        <img src="https://www.conceitocargasaereas.com.br/logos/sompo.svg" width="95" alt="SOMPO" style="display:block; opacity:0.85;">
+                                    </td>
+                                    <td align="center" style="padding:0 8px;">
+                                        <img src="https://www.conceitocargasaereas.com.br/logos/autotrac.svg" width="98" alt="AUTOTRAC" style="display:block; opacity:0.85;">
+                                    </td>
+                                    <td align="center" style="padding:0 8px;">
+                                        <img src="https://www.conceitocargasaereas.com.br/logos/servis.png" width="74" alt="SERVIS" style="display:block; opacity:0.85;">
+                                    </td>
+                                </tr>
+                            </table>
                         </td>
                     </tr>
 
