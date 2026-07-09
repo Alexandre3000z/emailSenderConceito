@@ -9,3 +9,4 @@ driver/__pycache__/
 driver/
 driver
 *.png
+checkpoint.json

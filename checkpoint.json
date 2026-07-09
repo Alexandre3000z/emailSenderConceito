@@ -1,7 +1,7 @@
 {
   "ultima_data": "2026-07-09",
-  "enviados_hoje": 65,
-  "total_enviados": 65,
+  "enviados_hoje": 66,
+  "total_enviados": 66,
   "emails_enviados": [
     "relacionamento.br@bbraun.com",
     "comercial@bluehealth.com.br",
@@ -67,7 +67,8 @@
     "comex@ablsaude.com.br",
     "contato@acerevestimentos.com.br",
     "airopvc@airopvc.com.br",
-    "sac@allcrom.com.br"
+    "sac@allcrom.com.br",
+    "amoul.mkt@amoulmed.com"
   ],
   "resultados_sucesso": [
     {
@@ -459,6 +460,12 @@
       "Email_Enviado": "sac@allcrom.com.br",
       "Texto_Gerado": "Prezados da Allcrom,\n\nParabenizo vocês pela dedicação em fornecer soluções de alta qualidade para atender às necessidades de seus clientes. Sua visão em oferecer produtos inovadores e personalizados é um exemplo a ser seguido no mercado. O esforço contínuo em melhorar a vida dos consumidores demonstra o compromisso da Allcrom com a excelência.\n\nConhecer sua empresa me fez refletir sobre como a agilidade do transporte aéreo pode complementar sua logística. Com a Conceito Cargas Aéreas, você pode contar com uma solução de transporte confiável e eficiente para movimentar seus produtos de forma rápida e segura por todo o território nacional. Nossa rede de rotas e parcerias estratégicas garantem que seus produtos cheguem ao destino em tempo hábil, sem perda de qualidade.\n\nGostaria de discutir como podemos apoiar a Allcrom em sua jornada de sucesso. Por favor, responda a este email para agendar uma conversa e descobrir como podemos ajudar a otimizar sua logística e aumentar a eficiência da entrega de seus produtos.\n\nAtenciosamente\nSarah Rebeca.",
       "Status": "Enviado com Sucesso"
+    },
+    {
+      "Empresa": "Ambulanc (Shenzhen) Tech. Co., Ltd",
+      "Email_Enviado": "amoul.mkt@amoulmed.com",
+      "Texto_Gerado": "Prezado(a) Equipe da Ambulanc (Shenzhen) Tech. Co., Ltd,\n\nGostaria de expressar nossa admiração pelo trabalho incrível que vocês estão fazendo ao longo de 20 anos. A produção de equipamentos hospitalares de suporte à vida é uma área de extrema importância e relevância, e é impressionante ver a dedicação e o compromisso que vocês têm com a pesquisa e desenvolvimento de dispositivos médicos de cuidado crítico. É notável a diversidade de produtos que vocês oferecem, desde ventiladores pulmonares até desfibriladores, e a certificação internacional que vocês obtiveram é um testemunho do seu compromisso com a excelência.\n\nNossa Conceito Cargas Aéreas compartilha a mesma paixão por entrega de serviços de alta qualidade. Com nossa rede de transporte aéreo nacional, podemos ajudar a garantir que seus produtos cheguem rapidamente e com segurança a qualquer parte do território nacional. Nossa agilidade e flexibilidade nos permitem adaptar nossos serviços às necessidades específicas de cada cliente, garantindo que vocês possam se concentrar no que é mais importante: produzir equipamentos que salven vidas.\n\nCaso queira saber mais sobre como podemos ajudar a otimizar a logística de seus produtos, por favor responda este email e conversamos sobre como podemos trabalhar juntos para melhorar a entrega de seus equipamentos.\n\nAtenciosamente,\nEquipe Comercial.",
+      "Status": "Enviado com Sucesso"
     }
   ],
   "resultados_falhas": [
@@ -615,6 +622,91 @@
     {
       "Empresa": "ALFA MED SISTEMAS MÉDICOS LTDA",
       "Telefones": "['+55 31 3681 6388', '+55 31 3681']",
+      "Status": "Sem Email Cadastrado"
+    },
+    {
+      "Empresa": "ACCUMED GLICOMED",
+      "Telefones": "['+55 21 2126 1600', '+55 21 2126']",
+      "Status": "Sem Email Cadastrado"
+    },
+    {
+      "Empresa": "DRÄGER DO BRASIL",
+      "Telefones": "['+55 11 4689 4900', '+55 11 4689']",
+      "Status": "Sem Email Cadastrado"
+    },
+    {
+      "Empresa": "GETINGE",
+      "Telefones": "['+55 11 2608 7400', '+55 11 2608 7410', '+55 11 2608']",
+      "Status": "Sem Email Cadastrado"
+    },
+    {
+      "Empresa": "HOSPCOM",
+      "Telefones": "[]",
+      "Status": "Sem Email Cadastrado"
+    },
+    {
+      "Empresa": "NIHON KOHDEN",
+      "Telefones": "['+55 11 3044 1700', '+55 11 3044']",
+      "Status": "Sem Email Cadastrado"
+    },
+    {
+      "Empresa": "Philips",
+      "Telefones": "[]",
+      "Status": "Sem Email Cadastrado"
+    },
+    {
+      "Empresa": "SALUX",
+      "Telefones": "['+55 51 3021 0055', '+55 51 3021']",
+      "Status": "Sem Email Cadastrado"
+    },
+    {
+      "Empresa": "Abimo",
+      "Telefones": "[]",
+      "Status": "Sem Email Cadastrado"
+    },
+    {
+      "Empresa": "GRUPO KSS",
+      "Telefones": "['+55 41 3084 7963', '+55 41 3382 2066', '+55 41 3084', '+55 41 3382']",
+      "Status": "Sem Email Cadastrado"
+    },
+    {
+      "Empresa": "HAOXI Equipamentos Médicos Hospitalares",
+      "Telefones": "['+55 11 91692 2462', '+55 11 5642 0587', '+55 11 91692', '+55 11 5642', '91692 2462']",
+      "Status": "Sem Email Cadastrado"
+    },
+    {
+      "Empresa": "Target 2026",
+      "Telefones": "['+55 11 2948 5900', '+55 11 2948 5920', '+55 11 2948']",
+      "Status": "Sem Email Cadastrado"
+    },
+    {
+      "Empresa": "MedLevensohn",
+      "Telefones": "['55 4003 9021', '+55 4003 9021']",
+      "Status": "Sem Email Cadastrado"
+    },
+    {
+      "Empresa": "MISSNER",
+      "Telefones": "['+55 47 2111 0490', '+55 47 2111']",
+      "Status": "Sem Email Cadastrado"
+    },
+    {
+      "Empresa": "TOTVS",
+      "Telefones": "[]",
+      "Status": "Sem Email Cadastrado"
+    },
+    {
+      "Empresa": "VMI Médica e Alfamed",
+      "Telefones": "['+55 31 3370 3750', '+55 31 3370']",
+      "Status": "Sem Email Cadastrado"
+    },
+    {
+      "Empresa": "ALFA MED SISTEMAS MÉDICOS LTDA",
+      "Telefones": "['+55 31 3681 6388', '+55 31 3681']",
+      "Status": "Sem Email Cadastrado"
+    },
+    {
+      "Empresa": "ALTERNATIVA",
+      "Telefones": "['+55 11 4675 8066', '+55 11 4675']",
       "Status": "Sem Email Cadastrado"
     },
     {
