@@ -119,7 +119,7 @@ def main():
                     break
 
                 print(f"   -> A enviar para: {email_alvo}")
-                enviado = enviar_email('joaoalexandrems3000@gmail.com', assunto, texto_email)
+                enviado = enviar_email(email_alvo, assunto, texto_email)
 
                 if enviado:
                     cp["emails_enviados"].append(email_alvo)

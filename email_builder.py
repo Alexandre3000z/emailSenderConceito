@@ -44,37 +44,39 @@ def montar_html_prospeccao(texto_ia):
                             
                             {paragrafos_html}
                             
-                            <img src="cid:assinatura" width="200" alt="Assinatura" style="display:block; margin:20px auto;">
-
                             <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f8fafc; border-radius:14px; border:1px solid #e2e8f0; margin:25px 0 0 0;">
                                 <tr>
-                                    <td style="padding:20px 25px;">
+                                    <td style="padding:25px;">
                                         <table width="100%" cellpadding="0" cellspacing="0" border="0">
                                             <tr>
-                                                <td width="50%" style="vertical-align:top; padding:0 10px 0 0;">
+                                                <td width="50%" style="vertical-align:top; padding:0 15px 0 0; text-align:center;">
+                                                    <img src="cid:assinatura" width="180" alt="Assinatura" style="display:block; margin:0 auto 15px auto;">
                                                     <table width="100%" cellpadding="0" cellspacing="0" border="0">
                                                         <tr>
-                                                            <td style="padding-bottom:6px;">
-                                                                <strong style="color:#0b3d91; font-size:14px;">Matriz Fortaleza</strong>
+                                                            <td style="padding-bottom:8px; text-align:center;">
+                                                                <img src="https://cdn-icons-png.flaticon.com/32/3670/3670051.png" width="16" height="16" alt="WhatsApp" style="display:inline-block; vertical-align:middle; margin-right:6px;">
+                                                                <strong style="color:#0b3d91; font-size:14px; vertical-align:middle;">Matriz Fortaleza</strong>
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <td>
+                                                            <td style="text-align:center;">
                                                                 <a href="https://wa.me/558592571233" target="_blank" style="display:inline-block; background:#25D366; color:#ffffff; text-decoration:none; padding:7px 16px; border-radius:20px; font-size:12px; font-weight:bold; letter-spacing:0.3px;">Conversar agora</a>
                                                                 <span style="color:#64748b; font-size:13px; margin-left:8px;">85 9257-1233</span>
                                                             </td>
                                                         </tr>
                                                     </table>
                                                 </td>
-                                                <td width="50%" style="vertical-align:top; padding:0 0 0 10px;">
+                                                <td width="50%" style="vertical-align:top; padding:0 0 0 15px; text-align:center;">
+                                                    <img src="cid:assinatura2" width="180" alt="Assinatura" style="display:block; margin:0 auto 15px auto;">
                                                     <table width="100%" cellpadding="0" cellspacing="0" border="0">
                                                         <tr>
-                                                            <td style="padding-bottom:6px;">
-                                                                <strong style="color:#0b3d91; font-size:14px;">Filial São Paulo</strong>
+                                                            <td style="padding-bottom:8px; text-align:center;">
+                                                                <img src="https://cdn-icons-png.flaticon.com/32/3670/3670051.png" width="16" height="16" alt="WhatsApp" style="display:inline-block; vertical-align:middle; margin-right:6px;">
+                                                                <strong style="color:#0b3d91; font-size:14px; vertical-align:middle;">Filial São Paulo</strong>
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <td>
+                                                            <td style="text-align:center;">
                                                                 <a href="https://wa.me/5511975001368" target="_blank" style="display:inline-block; background:#25D366; color:#ffffff; text-decoration:none; padding:7px 16px; border-radius:20px; font-size:12px; font-weight:bold; letter-spacing:0.3px;">Conversar agora</a>
                                                                 <span style="color:#64748b; font-size:13px; margin-left:8px;">11 97500-1368</span>
                                                             </td>

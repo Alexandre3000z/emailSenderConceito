@@ -27,6 +27,12 @@ def enviar_email(destinatario, assunto, texto_ia):
         assinatura.add_header("Content-Disposition", "inline", filename="assinatura.png")
         msg.attach(assinatura)
 
+    with open("assinatura2.png", "rb") as f:
+        assinatura2 = MIMEImage(f.read(), name="assinatura2.png")
+        assinatura2.add_header("Content-ID", "<assinatura2>")
+        assinatura2.add_header("Content-Disposition", "inline", filename="assinatura2.png")
+        msg.attach(assinatura2)
+
     msg.attach(MIMEText(texto_ia, "plain", "utf-8"))
     msg.attach(MIMEText(corpo_html, "html", "utf-8"))
 
