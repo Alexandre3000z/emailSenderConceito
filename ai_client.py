@@ -15,7 +15,7 @@ def gerar_email_ia(nome_empresa, descricao):
     1. Crie conexão emocional elogiando o que eles fazem com base na descrição tentando ser sempre o mais claro e formal possivel.
     2. Ofereça os serviços da Conceito Cargas Aéreas de forma sutil, mostrando como a agilidade do transporte aéreo pode ajudar na logística dos produtos deles, lembrando que atendemos todo o território nacional, mas não atendemos internacionalmente.
     3. Finalize com uma chamada para ação (Call to Action) solicite que responda o email, nunca informe o telefone.
-    4. Não use marcadores de posição genéricos, assine apenas como 'Atenciosamente Sarah Rebeca.'.
+    4. Não use marcadores de posição genéricos, assine apenas como 'Atenciosamente Equipe Comercial.'.
     5. Escreva diretamente o corpo do email, sem introduções suas.
     """
 

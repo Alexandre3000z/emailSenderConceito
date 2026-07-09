@@ -44,7 +44,48 @@ def montar_html_prospeccao(texto_ia):
                             
                             {paragrafos_html}
                             
-                            <img src="cid:assinatura" width="200" alt="Assinatura" style="display:block; margin:20px 0;">
+                            <img src="cid:assinatura" width="200" alt="Assinatura" style="display:block; margin:20px auto;">
+
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f8fafc; border-radius:14px; border:1px solid #e2e8f0; margin:25px 0 0 0;">
+                                <tr>
+                                    <td style="padding:20px 25px;">
+                                        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                            <tr>
+                                                <td width="50%" style="vertical-align:top; padding:0 10px 0 0;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                                        <tr>
+                                                            <td style="padding-bottom:6px;">
+                                                                <strong style="color:#0b3d91; font-size:14px;">Matriz Fortaleza</strong>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                <a href="https://wa.me/558592571233" target="_blank" style="display:inline-block; background:#25D366; color:#ffffff; text-decoration:none; padding:7px 16px; border-radius:20px; font-size:12px; font-weight:bold; letter-spacing:0.3px;">Conversar agora</a>
+                                                                <span style="color:#64748b; font-size:13px; margin-left:8px;">85 9257-1233</span>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                                <td width="50%" style="vertical-align:top; padding:0 0 0 10px;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                                        <tr>
+                                                            <td style="padding-bottom:6px;">
+                                                                <strong style="color:#0b3d91; font-size:14px;">Filial São Paulo</strong>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                <a href="https://wa.me/5511975001368" target="_blank" style="display:inline-block; background:#25D366; color:#ffffff; text-decoration:none; padding:7px 16px; border-radius:20px; font-size:12px; font-weight:bold; letter-spacing:0.3px;">Conversar agora</a>
+                                                                <span style="color:#64748b; font-size:13px; margin-left:8px;">11 97500-1368</span>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
                             
                             <hr style="border:none; border-top:1px solid #e2e8f0; margin:35px 0 25px 0;">
                             
